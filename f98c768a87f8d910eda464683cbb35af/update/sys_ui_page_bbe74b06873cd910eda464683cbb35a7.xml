@@ -4,24 +4,24 @@
         <client_script/>
         <description/>
         <direct>false</direct>
-        <endpoint>x_snc_studio_app_Test data.do</endpoint>
+        <endpoint>x_snc_studio_app_Ui Page demo data.do</endpoint>
         <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
 <j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
 
 </j:jelly>]]></html>
-        <name>Test data</name>
+        <name>Ui Page demo data</name>
         <processing_script/>
         <sys_class_name>sys_ui_page</sys_class_name>
         <sys_created_by>andrea.sesto</sys_created_by>
         <sys_created_on>2022-07-21 18:23:00</sys_created_on>
         <sys_id>bbe74b06873cd910eda464683cbb35a7</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Test data</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Ui Page demo data</sys_name>
         <sys_package display_value="Studio app " source="x_snc_studio_app">f98c768a87f8d910eda464683cbb35af</sys_package>
         <sys_policy/>
         <sys_scope display_value="Studio app ">f98c768a87f8d910eda464683cbb35af</sys_scope>
         <sys_update_name>sys_ui_page_bbe74b06873cd910eda464683cbb35a7</sys_update_name>
         <sys_updated_by>andrea.sesto</sys_updated_by>
-        <sys_updated_on>2022-07-21 18:23:00</sys_updated_on>
+        <sys_updated_on>2022-07-25 06:44:04</sys_updated_on>
     </sys_ui_page>
 </record_update>
